@@ -4,6 +4,7 @@
 
 <h2>📄 Resume: </h2>
 
+- [View Here](https://github.com/maddyspeers/Resume/blob/main/Madelyn%20Speers%20-%20Resume.pdf) 
 <h2>🎓 University of South Florida Graduate - May 2025 </h2>
 
 <h2> 🤳 Connect with me:</h2>
