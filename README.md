@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Cap - Hack The Box</b>
+  - [Cap Walk-Through](https://github.com/maddyspeers/Cap)
 <h2>📄 Resume: </h2>
 
 - [View Here](https://github.com/maddyspeers/Resume/blob/main/Madelyn%20Speers%20-%20Resume.pdf) 
