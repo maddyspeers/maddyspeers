@@ -22,6 +22,7 @@
 
 - <b> Security+ 701 Certification</b>
 - <b> Biometrics Project</b>
+- <b> Building Home Lab</b>
 
 
 <h2> 🤳 Connect with me:</h2>
