@@ -20,7 +20,7 @@
 
 <h2>- 🔭 I’m currently working on</h2>
 
-- <b> Security+ 701 Certification</b>
+- <b> CompTIA Security+ 701 Certification</b>
 - <b> Biometrics Project</b>
 - <b> Building Home Lab</b>
 
