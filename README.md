@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cap - Hack The Box</b>
+- <b>💻 Cap - Hack The Box</b>
   - [Cap Walk-Through](https://github.com/maddyspeers/Cap)
 - <b>📊 Stock Candlestick Pattern Recognizer</b>
   - [View Here](https://github.com/maddyspeers/Stock)
