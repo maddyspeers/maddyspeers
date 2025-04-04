@@ -18,6 +18,12 @@
 - [View Here](https://github.com/maddyspeers/Resume/blob/main/Madelyn%20Speers%20-%20Resume.pdf) 
 <h2>🎓 University of South Florida Graduate - May 2025 </h2>
 
+<h2>- 🔭 I’m currently working on</h2>
+
+- <b> Security+ 701 Certification</b>
+- <b> Biometrics Project</b>
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Madelyn Speers | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
