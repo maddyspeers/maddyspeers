@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+-<b> 🕵️‍♂️ Mini-Nmap: Vulnerability Scanner</b>
+  - [View Here](https://github.com/maddyspeers/mini-nmap)
 - <b>💻 Cap - Hack The Box</b>
   - [Cap Walk-Through](https://github.com/maddyspeers/Cap)
 - <b>📊 Stock Candlestick Pattern Recognizer</b>
