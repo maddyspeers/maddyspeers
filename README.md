@@ -1,4 +1,4 @@
-<h1>Hi, I'm Madelyn! <br/><a href="https://github.com/maddyspeers">University Student</a> | <a href="https://www.linkedin.com/in/madelynspeers/">Cybersecurity Professional</a>
+![Hero Image](https://i.imgur.com/qAqXhea.png)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
