@@ -22,12 +22,17 @@
 - [View Here](https://github.com/maddyspeers/Resume/blob/main/Madelyn%20Speers.pdf) 
 <h2>🎓 University of South Florida Graduate - May 2025 </h2>
 
-<h2>- 🔭 I’m currently working on</h2>
+<h2>- 🔭 I’m currently working on:</h2>
 
 - <b> CompTIA Security+ 701 Certification</b>
 - <b> Biometrics Project</b>
 - <b> Building Home Lab</b>
 
+<h2>- 🌱 I’m currently learning:</h2>
+
+- <b> Global Cyber Ethics</b>
+- <b> Biometric Systems</b>
+- <b> CTF</b>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -47,7 +52,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
