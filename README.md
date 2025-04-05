@@ -14,6 +14,8 @@
   - [View Here](https://github.com/maddyspeers/scareware-beware)
 - <b> 🔒 Manageable Network Security Plan</b>
   - [View Here](https://github.com/maddyspeers/network-plan)
+- <b> Rogue Access Point Attack - Mitigation Plan</b>
+  - [View Here](https://github.com/maddyspeers/access-control) 
   
 <h2>📄 Resume: </h2>
 
