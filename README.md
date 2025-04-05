@@ -12,6 +12,8 @@
   - [View Here](https://github.com/maddyspeers/data-structure-project)
 - <b> 🛡️ Final Cybersecurity Project: Malicious Activity Modeling with Soltra Edge (STIX/TAXII)</b>
   - [View Here](https://github.com/maddyspeers/scareware-beware)
+- <b> 🔒 Manageable Network Security Plan</b>
+  - [View Here](https://github.com/maddyspeers/network-plan)
   
 <h2>📄 Resume: </h2>
 
