@@ -46,3 +46,5 @@
 
 [instagram]: https://www.instagram.com/maddyspeers/
 [linkedin]: https://linkedin.com/in/madelynspeers
+
+![Hero Image](https://i.imgur.com/irURkug.png)
