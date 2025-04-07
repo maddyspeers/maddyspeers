@@ -2,22 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>🕵️‍♂️ Mini-Nmap: Vulnerability Scanner</b>
-  - [View Here](https://github.com/maddyspeers/mini-nmap)
-- <b>💻 Cap - Hack The Box</b>
-  - [Cap Walk-Through](https://github.com/maddyspeers/Cap)
-- <b>📊 Stock Candlestick Pattern Recognizer</b>
-  - [View Here](https://github.com/maddyspeers/Stock)
-- <b>📋 Flutter Survey Form (Standalone)</b>
-  - [View Here](https://github.com/maddyspeers/flutter-survey-form)
-- <b> 🧠 Data Structures & Algorithms Project</b>
-  - [View Here](https://github.com/maddyspeers/data-structure-project)
-- <b> 🛡️ Malicious Activity Modeling with Soltra Edge (STIX/TAXII)</b>
-  - [View Here](https://github.com/maddyspeers/scareware-beware)
-- <b> 🔒 Manageable Network Security Plan</b>
-  - [View Here](https://github.com/maddyspeers/network-plan)
-- <b> Rogue Access Point Attack - Mitigation Plan</b>
-  - [View Here](https://github.com/maddyspeers/access-control) 
+- <b>[🕵️‍♂️ Mini-Nmap: Vulnerability Scanner](https://github.com/maddyspeers/mini-nmap)</b>
+- <b>[💻Cap - Hack The Box Walk-Through](https://github.com/maddyspeers/Cap)</b>
+- <b>[📊 Stock Candlestick Pattern Recognizer](https://github.com/maddyspeers/Stock)</b>
+- <b>[📋 Flutter Survey Form (Standalone)](https://github.com/maddyspeers/flutter-survey-form)</b>
+- <b>[🧠 Data Structures & Algorithms Project](https://github.com/maddyspeers/data-structure-project)</b>
+- <b>[🛡️ Malicious Activity Modeling with Soltra Edge (STIX/TAXII)](https://github.com/maddyspeers/scareware-beware)</b>
+- <b>[🔒 Manageable Network Security Plan](https://github.com/maddyspeers/network-plan)</b>
+- <b>[⚠️ Rogue Access Point Attack - Mitigation Plan](https://github.com/maddyspeers/access-control)</b>
   
 <h2>📄 Resume: </h2>
 
