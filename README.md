@@ -4,7 +4,7 @@
 
 - <b>[🕵️‍♂️ Mini-Nmap: Vulnerability Scanner](https://github.com/maddyspeers/mini-nmap)</b>
 - <b>[🖱️ Tactics - Hack The Box Walk-Through](https://github.com/maddyspeers/htb-windows)</b>
-- <b>[💻Cap - Hack The Box Walk-Through](https://github.com/maddyspeers/Cap)</b>
+- <b>[💻 Cap - Hack The Box Walk-Through](https://github.com/maddyspeers/Cap)</b>
 - <b>[📊 Stock Candlestick Pattern Recognizer](https://github.com/maddyspeers/Stock)</b>
 - <b>[📋 Flutter Survey Form (Standalone)](https://github.com/maddyspeers/flutter-survey-form)</b>
 - <b>[🧠 Data Structures & Algorithms Project](https://github.com/maddyspeers/data-structure-project)</b>
