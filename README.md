@@ -20,7 +20,7 @@
 <h2> 🔭 I’m currently working on:</h2>
 
 - <b> CompTIA Security+ 701 Certification</b>
-- <b> Biometrics Project</b>
+- <b> Biometric Project - Feature-level Fusion</b>
 - <b> Building Home Lab</b>
 
 <h2>⌨️ Languages and Tools:</h2>
